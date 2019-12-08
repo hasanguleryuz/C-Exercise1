@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/CENG313_Hw1_240201029.dir/main.c.o CMakeFiles/CENG313_Hw1_240201029.dir/Operations.c.o  -o CENG313_Hw1_240201029 

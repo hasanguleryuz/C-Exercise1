@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hasan/CLionProjects/CENG313-Hw1-240201029/Operations.c
+stdio.h
+-
+string.h
+-
+Operations.h
+/home/hasan/CLionProjects/CENG313-Hw1-240201029/Operations.h
+
+/home/hasan/CLionProjects/CENG313-Hw1-240201029/Operations.h
+
